@@ -1,0 +1,13 @@
+psycopg2-binary
+scikit-learn
+sqlalchemy
+pandas
+numpy
+tensorflow
+keras
+streamlit
+matplotlib
+seaborn
+plotly
+pickle
+dotenv
