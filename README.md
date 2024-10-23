@@ -29,6 +29,12 @@ Predict customer behavior in a DVD rental business, specifically focusing on cus
 git clone https://github.com/Gengatharan1/ds_dvd_rental_analysis.git
 
 cd ds_dvd_rental_analysis
+``` -->
+
+- Download project folder or full repo
+- cd into the folder
+```
+cd ds_dvd_rental_analysis
 ```
 
 ### Python packages
