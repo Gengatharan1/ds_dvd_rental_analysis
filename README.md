@@ -13,6 +13,8 @@ Predict customer behavior in a DVD rental business, specifically focusing on cus
   - [Environment\_variables](#environment_variables)
   - [Database Setup](#database-setup)
   - [Run App](#run-app)
+- [Workflow](#workflow)
+- [Contact](#contact)
 
 ## Setup
 ### Softwares needed
@@ -59,6 +61,11 @@ Create database and table in PostgreSQL and add copy its credentials in ```.env`
 streamlit run app.py
 ```
 
+## Workflow
+[Slides](https://docs.google.com/presentation/d/1YfRFRF8DH7qTqKNyuwGSCgqFzS-VdeMH3yqC8VlXMyk)
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/gengatharan007/)
 
 ---
 ^ [Back to table of contents](#table-of-contents)
